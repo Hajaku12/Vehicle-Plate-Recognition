@@ -1,0 +1,9 @@
+package edu.eci.arep.carplaterekognition.constants;
+
+public final class CredentialConstants {
+    public static final String BUCKET = "awscarplaterecokgnition";
+    public static final String AWS_ACCESS_KEY_ID= "ASIATLNAOGXZP6KBEFRN";
+    public static final String AWS_SECRET_ACCESS_KEY="wS/Kap6/ZfCCl7VNrPo1zEnuflbsnpV38IyNJL8g";
+    public static final String SESSION_TOKEN = "IQoJb3JpZ2luX2VjEBIaCXVzLXdlc3QtMiJHMEUCIQCdsHoaMF5hFO40u2VkCnvxio1wb7S2vQmUYwUitClFIgIgMRPCkyDSqUfkskNJf7NUqdA+nuo68/JkCJbV4l4FNY4quwIIy///////////ARAAGgwyMzA2NTQwOTY4ODIiDAcaFOrwbKogLt/8byqPAvJvS0W3WYI1c1HQa7WyTpfukFSqhzwuCbdqwasCrH1wGJOqkq5B8Q8z05ps7WGh+TIfhVIS+nsDFzOyIng+vv62EoGYMjMZzxA2Xp5iCmJSAhG6xnPyoEQrxxIRr23ssJMCoPbo+tKOpbV3QFv36qjF5yyZDwt39X74kQMobMUDELVmaFlxeWMTrfBan99fVRir4qXaYJQdB14xP1H5kl9qmHf0aUkaSe+wbbsjqxtjOwSjkORETlR65JOV8Sq2kXiCUFt1CwegPtSws1TQCZid3fMZBAlvZAUsPKiJH2DFq+6W2jaTh+mtd6C8F+TGlSMCAyq1Mz8HjqEzLQMEkAs33/J4QCDnC6wSi38pvLswuKDuugY6nQGQ5e41Rbfz7xQHcPWJziexCVbAZwgxtdQkrSEL0KVjIfGSka8GjaJPUbdqEG86SuWAN4iWzXDlHTh6pQjVkIEslZjIz0SA796FQHN+UGXosRSjcZACEwxQSS5TaPT70ZS7lhSDoyDzv+n+c3MCPsRtIXV5Bct46Xnt48PJBdZ3sQmPXFRjQcT8Kz8QPMTfiovvtgjrWu61MDFFxyYI";
+}
+
