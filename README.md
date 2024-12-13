@@ -24,7 +24,7 @@ The backend of this project is built using Spring Boot, a framework that simplif
 
 ### Frontend (REACT)
 
-**Link to the Frontend Repository**: [Frontend Repository]()
+**Link to the Frontend Repository**: [Frontend Repository](https://github.com/Hajaku12/Vehicle-Plate-Recognition_Front.git)
 
 The frontend of this project is built using React, a popular JavaScript library for building user interfaces. The key components of the frontend include:
 
